@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Counter
+Exec=Counter
+Icon=org.trolliverpust.CounterPY
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

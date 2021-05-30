@@ -1,0 +1,7 @@
+data/org.trolliverpust.CounterPY.desktop.in
+data/org.trolliverpust.CounterPY.appdata.xml.in
+data/org.trolliverpust.CounterPY.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
